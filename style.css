@@ -13,6 +13,7 @@
 }
 a{
     text-decoration: none;
+    
 }
 
 button{
@@ -64,4 +65,9 @@ button{
 
 .name{
     margin: 0%;
+}
+
+span{
+    color: brown;
+    font-weight: 700;
 }
